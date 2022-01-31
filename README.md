@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align='right' src="programmer.gif" width="280">
+<img align="right" src="IMG_0065.jpeg" width="200" style="border-radius:50%"></img>
 
+- 👶🏻 I was born in Mumbai, India and completed Bachelor of Computer Science at Sardar Patel Institute of Technology
 - 🌱 I’m currently studying Master of Computer Science at  <img src="860px-North_Carolina_State_University_Athletic_logo.png" height="23px">
 - 📚 Learning about Software Development and Design
 - 😄 Pronouns: He/Him
@@ -45,6 +46,7 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+<img align='right' src="programmer.gif" width="280">
 
 ![Nisarg's GitHub stats](https://github-readme-stats.vercel.app/api?username=freakNewton&show_icons=true&theme=swift&count_private=true)
 
