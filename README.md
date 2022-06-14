@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <img align='right' src="programmer.gif" width="280">
 
-![Nisarg's GitHub stats](https://github-readme-stats.vercel.app/api?username=freakNewton&show_icons=true&theme=swift&count_private=true)
+![Nisarg's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsshah14&show_icons=true&theme=swift&count_private=true)
 
 ### 🔗 Connect Me
 
